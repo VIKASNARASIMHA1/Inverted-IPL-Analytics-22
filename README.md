@@ -6,9 +6,17 @@ This dashboard has been built with an intention of keeping the dashboard as vani
 
 ## Preview:
 
-![Picture](PICTURE.PNG)
+![Picture](Picture1.PNG)
 
-[Download the pbix file](Rainfax_July.pbix)
+![Picture](Picture2.PNG)
+
+![Picture](Picture3.PNG)
+
+![Picture](Picture4.PNG)
+
+![Picture](Picture5.PNG)
+
+[Download the pbix file](In_IPL_Analytics_22.pbix)
 
 ## Process
 
